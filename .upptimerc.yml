@@ -10,7 +10,7 @@ sites:
   - name: Packages
     url: https://packages.nexalinux.xyz
   - name: Build slave (Raspberry Pi 5)
-    url: https://raspberry.nexalinux.xyz
+    url: https://komarurpi.serveo.net
   - name: ISO storage
     url: https://cdn.nexalinux.xyz
 
