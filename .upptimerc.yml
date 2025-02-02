@@ -7,6 +7,12 @@ sites:
     url: https://nexalinux.xyz
   - name: Documentation
     url: https://docs.nexalinux.xyz
+  - name: Packages
+    url: https://packages.nexalinux.xyz
+  - name: Build slave (Raspberry Pi 5)
+    url: https://raspberry.nexalinux.xyz
+  - name: ISO storage
+    url: https://cdn.nexalinux.xyz
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
