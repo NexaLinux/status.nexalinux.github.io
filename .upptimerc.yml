@@ -15,8 +15,8 @@ status-website:
   # baseUrl: /your-repo-name
   logoUrl: https://nexalinux.xyz/nexa.png
   name: Nexa Linux
-  introTitle: "Empowering users with a modern, secure, and user-friendly Linux distribution."
-  introMessage: Status Page for Nexa Linux
+  introTitle: "Status"
+  introMessage: Empowering users with a modern, secure, and user-friendly Linux distribution.
   navbar:
     - title: Status
       href: /
