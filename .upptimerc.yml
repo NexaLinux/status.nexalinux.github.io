@@ -10,7 +10,7 @@ sites:
   - name: Packages
     url: https://packages.nexalinux.xyz
   - name: ISO storage
-    url: https://cdn.nexalinux.xyz
+    url: https://iso.nexalinux.xyz
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
