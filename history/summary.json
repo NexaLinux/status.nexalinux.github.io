@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 158,
-    "timeDay": 172,
-    "timeWeek": 140,
-    "timeMonth": 158,
-    "timeYear": 158,
+    "time": 156,
+    "timeDay": 142,
+    "timeWeek": 136,
+    "timeMonth": 156,
+    "timeYear": 156,
     "dailyMinutesDown": {}
   },
   {
@@ -23,18 +23,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/docs.nexalinux.xyz.ico",
     "slug": "documentation",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 146,
-    "timeDay": 130,
-    "timeWeek": 140,
-    "timeMonth": 146,
-    "timeYear": 146,
+    "uptime": "99.94%",
+    "uptimeDay": "99.25%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.94%",
+    "time": 144,
+    "timeDay": 123,
+    "timeWeek": 136,
+    "timeMonth": 144,
+    "timeYear": 144,
     "dailyMinutesDown": {
-      "2025-02-14": 0
+      "2025-02-14": 11
     }
   },
   {
@@ -43,18 +43,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/packages.nexalinux.xyz.ico",
     "slug": "packages",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 160,
-    "timeDay": 132,
-    "timeWeek": 170,
-    "timeMonth": 160,
-    "timeYear": 160,
+    "uptime": "99.94%",
+    "uptimeDay": "99.24%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.94%",
+    "time": 156,
+    "timeDay": 116,
+    "timeWeek": 160,
+    "timeMonth": 156,
+    "timeYear": 156,
     "dailyMinutesDown": {
-      "2025-02-14": 0
+      "2025-02-14": 11
     }
   },
   {
@@ -63,18 +63,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/iso.nexalinux.xyz.ico",
     "slug": "iso-storage",
     "status": "down",
-    "uptime": "21.25%",
-    "uptimeDay": "0.00%",
-    "uptimeWeek": "0.00%",
-    "uptimeMonth": "21.25%",
-    "uptimeYear": "21.25%",
-    "time": 369,
-    "timeDay": 631,
-    "timeWeek": 479,
-    "timeMonth": 369,
-    "timeYear": 369,
+    "uptime": "21.26%",
+    "uptimeDay": "0.30%",
+    "uptimeWeek": "0.04%",
+    "uptimeMonth": "21.26%",
+    "uptimeYear": "21.26%",
+    "time": 360,
+    "timeDay": 372,
+    "timeWeek": 433,
+    "timeMonth": 360,
+    "timeYear": 360,
     "dailyMinutesDown": {
-      "2025-02-14": 900,
+      "2025-02-14": 911,
       "2025-02-13": 1440,
       "2025-02-12": 1440,
       "2025-02-11": 1440,
@@ -86,6 +86,26 @@
       "2025-02-05": 1018,
       "2025-02-04": 63,
       "2025-02-03": 2
+    }
+  },
+  {
+    "name": "Git",
+    "url": "https://git.nexalinux.xyz",
+    "icon": "https://icons.duckduckgo.com/ip3/git.nexalinux.xyz.ico",
+    "slug": "git",
+    "status": "down",
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
+    "time": 75,
+    "timeDay": 75,
+    "timeWeek": 75,
+    "timeMonth": 75,
+    "timeYear": 75,
+    "dailyMinutesDown": {
+      "2025-02-14": 0
     }
   }
 ]
