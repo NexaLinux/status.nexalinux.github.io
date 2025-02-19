@@ -1,7 +1,7 @@
 url: https://iso.nexalinux.xyz
-status: up
-code: 200
-responseTime: 165
-lastUpdated: 2025-02-19T03:31:29.659Z
+status: down
+code: 401
+responseTime: 504
+lastUpdated: 2025-02-19T04:37:21.957Z
 startTime: 2025-02-02T17:14:26.009Z
 generator: Upptime <https://github.com/upptime/upptime>
