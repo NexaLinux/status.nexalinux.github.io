@@ -74,17 +74,17 @@
     "url": "https://iso.nexalinux.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/iso.nexalinux.xyz.ico",
     "slug": "iso-storage",
-    "status": "up",
-    "uptime": "39.25%",
-    "uptimeDay": "20.76%",
-    "uptimeWeek": "22.03%",
-    "uptimeMonth": "39.25%",
-    "uptimeYear": "39.25%",
-    "time": 538,
-    "timeDay": 685,
-    "timeWeek": 619,
-    "timeMonth": 538,
-    "timeYear": 538,
+    "status": "down",
+    "uptime": "39.61%",
+    "uptimeDay": "20.75%",
+    "uptimeWeek": "22.11%",
+    "uptimeMonth": "39.61%",
+    "uptimeYear": "39.61%",
+    "time": 539,
+    "timeDay": 683,
+    "timeWeek": 620,
+    "timeMonth": 539,
+    "timeYear": 539,
     "dailyMinutesDown": {
       "2025-03-01": 865,
       "2025-02-28": 1192,
@@ -107,7 +107,7 @@
       "2025-02-08": 1440,
       "2025-02-07": 1440,
       "2025-02-06": 1440,
-      "2025-02-05": 921
+      "2025-02-05": 789
     }
   }
 ]
