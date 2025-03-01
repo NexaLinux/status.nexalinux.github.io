@@ -50,11 +50,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/packages.nexalinux.xyz.ico",
     "slug": "packages",
     "status": "up",
-    "uptime": "88.54%",
+    "uptime": "88.55%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "88.54%",
-    "uptimeYear": "88.54%",
+    "uptimeMonth": "88.55%",
+    "uptimeYear": "88.55%",
     "time": 132,
     "timeDay": 123,
     "timeWeek": 149,
@@ -74,15 +74,15 @@
     "url": "https://iso.nexalinux.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/iso.nexalinux.xyz.ico",
     "slug": "iso-storage",
-    "status": "up",
-    "uptime": "39.77%",
-    "uptimeDay": "19.45%",
+    "status": "down",
+    "uptime": "39.85%",
+    "uptimeDay": "20.06%",
     "uptimeWeek": "22.26%",
-    "uptimeMonth": "39.77%",
-    "uptimeYear": "39.77%",
+    "uptimeMonth": "39.85%",
+    "uptimeYear": "39.85%",
     "time": 540,
-    "timeDay": 665,
-    "timeWeek": 600,
+    "timeDay": 657,
+    "timeWeek": 599,
     "timeMonth": 540,
     "timeYear": 540,
     "dailyMinutesDown": {
@@ -107,7 +107,7 @@
       "2025-02-08": 1440,
       "2025-02-07": 1440,
       "2025-02-06": 1440,
-      "2025-02-05": 773
+      "2025-02-05": 745
     }
   }
 ]
